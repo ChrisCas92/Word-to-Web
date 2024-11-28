@@ -17,7 +17,7 @@ yarn-error.log*
 Thumbs.db
 
 # Docker spezifisch
-# .dockerignore
+.dockerignore
 .env
 
 # Build- und Cache-Dateien

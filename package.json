@@ -1,7 +1,7 @@
 {
   "name": "word-to-web",
   "version": "1.0.0",
-  "description": "Ein Tool zur Konvertierung von Word-Dateien in Webseiten für Ingo :)",
+  "description": "Ein Tool zur Konvertierung von Word-Dateien in Webseiten",
   "main": "app.js",
   "type": "module",
   "scripts": {
@@ -13,6 +13,6 @@
     "multer": "^1.4.5-lts.1"
   },
   "keywords": [],
-  "author": "ChrisCas92",
+  "author": "",
   "license": "ISC"
 }
