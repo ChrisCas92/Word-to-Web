@@ -1,0 +1,26 @@
+# Node.js spezifische Dateien und Ordner
+node_modules/
+npm-debug.log*
+
+# Temporäre Dateien
+uploads/
+*.tmp
+
+# Logdateien
+logs
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+# Betriebssystemspezifische Dateien
+.DS_Store
+Thumbs.db
+
+# Docker spezifisch
+# .dockerignore
+.env
+
+# Build- und Cache-Dateien
+dist/
+.cache/
+*.lock
